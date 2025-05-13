@@ -15,3 +15,18 @@ Wireframes serve as a blueprint for both the designers and developers, helping e
 
 > “Good design starts with good planning, and wireframes are the foundation.”
 
+## 🧩 Key Elements of a Wireframe
+
+Wireframes include several core elements that help communicate the structure and functionality of a user interface. Below are the most important ones:
+
+### 1. 📐 Layout Structure
+This defines the overall framework of the page—how space is divided and where different sections are placed (e.g., header, sidebar, content area, footer).
+
+**Example:**  
+In a blog wireframe, the layout structure may include a top navigation bar, a left sidebar for categories, a central column for blog posts, and a footer with contact info.
+
+### 2. 🧭 Navigation
+Wireframes illustrate how users move through the interface using menus, links, or buttons.
+
+**Example:**  
+A website wireframe might include a horizontal menu bar with links to "
